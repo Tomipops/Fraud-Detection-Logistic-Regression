@@ -37,11 +37,6 @@ File Descriptions
 3.	Fraud_Detection_Report.docx: Detailed project report outlining methodology, findings, and conclusions.
 4.	README.docx: Documentation for project overview.
 
-Recommendations
-1.	Incorporate advanced machine learning algorithms like Random Forest or XGBoost to handle non-linear relationships.
-2.	Improve data collection processes to include more samples for fraudulent transactions.
-3.	Deploy the model in real-time fraud detection systems with continuous learning capabilities.
-
 Contact Information
 Author: Emmanuel Popoola
 Email: N01511@humber.ca
